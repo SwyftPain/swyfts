@@ -4,7 +4,7 @@
   "version": "0.1.1",
   "identifier": "com.swyfts.app",
   "build": {
-    "beforeDevCommand": "yarndev",
+    "beforeDevCommand": "yarn dev",
     "devUrl": "http://localhost:1420",
     "beforeBuildCommand": "yarn build",
     "frontendDist": "../dist"
